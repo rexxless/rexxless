@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rexxless
-- 👀 I’m interested in help with learning, maybe some easy projects together xd
+- 👀 I’m interested in creating some small project, to practice my python and maybe prepare for futher job
 - 🌱 I’m currently learning python
 - 😄 Pronouns: he/him
 
