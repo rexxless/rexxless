@@ -1,11 +1,14 @@
-<div align="center" style="display: flex; align-items: center;">
-  <h3>:hammer_and_wrench: Languages and Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height = "80"/>&nbsp;
-</div>
+<h2> Hi, I'm rexxless! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUxeGkxbnlvODB2dmthcXVsZ2FveWR5N2R6NndxYm5sa2s5ODc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="40px" height="40px"></h2>
 
+<div align="center" style="display: flex; align-items: center;">
+
+🛠️ **Stuff that I use:**
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+</div>
