@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
