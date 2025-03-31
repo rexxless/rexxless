@@ -16,12 +16,12 @@ Hello again! My nickname is actually remfan, but for some reason in github I set
 ### 📈 **My GitHub Stats:**
 
 <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=java,dockerfile&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexxless&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula" align="right"/>
 </p>
 
 <p>
   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxless&theme=dracula" alt="rexxless" align="center"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxless&theme=dracula" alt="rexxless"/>
  
 </p>
