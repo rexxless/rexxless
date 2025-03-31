@@ -1,7 +1,7 @@
 <h2> Hi, I'm rexxless! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUxeGkxbnlvODB2dmthcXVsZ2FveWR5N2R6NndxYm5sa2s5ODc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="40px" height="40px"></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some info about me... 
-Hello again! My nickname is actually remfan, but, for some reason in github I set the username "rexxless" so... rexxless it is, I guess. I'm a beginner self-taught backend developer, simultaneously working as a QA engineer assistant at Stergo Media. I REALLY love learning as well as I love to code. I created a lot of local projects on Python and Bash just to simply automate my life. I consider coding as my hobby.
+Hello again! My nickname is actually remfan, but, for some reason in github I set the username "rexxless" so... rexxless it is, I guess. I live in Russia, but planning to move to the US as soon as I graduate from college. I'm a beginner self-taught backend developer, simultaneously working as a QA engineer assistant at Stergo Media. I REALLY love learning as well as I love to code. I created a lot of local projects on Python and Bash just to simply automate my life. I consider coding as my hobby.
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lnZWNqMWdyaG4yeW11OHJrMHF5eXV6Z3hvbHhlY3k4d2g0b3cyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WY1xAMvavzRo4/giphy.gif" width="50"> **Stuff that I use:**
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
