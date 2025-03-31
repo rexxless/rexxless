@@ -1,5 +1,5 @@
 <h2> Hi, I'm rexxless! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUxeGkxbnlvODB2dmthcXVsZ2FveWR5N2R6NndxYm5sa2s5ODc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="40px" height="40px"></h2>
-<img align = "right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ6aHFlZnhqanFkYWwweHVudmh5b2Mzamw2Mzd4dGJoOWJ3NDlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" width="400">
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ6aHFlZnhqanFkYWwweHVudmh5b2Mzamw2Mzd4dGJoOWJ3NDlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" width="400">
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some info about me... </h3>
 Hello again! My nickname is actually remfan, but for some reason in github I set the username to "rexxless", so... rexxless it is, I guess. I live in Russia, but plan to move to the USA as soon as I graduate from college. I'm a beginner self-taught backend developer, simultaneously working as a QA engineer assistant at Stergo Media. I REALLY love learning as much as I love coding. I have created a lot of local projects on Python and Bash just to automate my life. I consider coding to be my hobby.
 
@@ -17,11 +17,11 @@ Hello again! My nickname is actually remfan, but for some reason in github I set
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexxless&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula" align="right"/>
 </p>
 
 <p>
   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxless&theme=dracula" alt="rexxless"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxless&theme=dracula" alt="rexxless" align="center"/>
  
 </p>
