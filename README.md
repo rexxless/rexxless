@@ -17,7 +17,7 @@
 ### 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=java,dockerfile&layout=compact&langs_count=8&theme=dracula"/> &nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexxless&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxless&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=java,dockerfile&layout=compact&langs_count=8&theme=dracula"/> &nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexxless&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
