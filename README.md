@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)ф
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel&logoColor=red)
 
